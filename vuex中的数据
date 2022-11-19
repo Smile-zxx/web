@@ -1,0 +1,43 @@
+1. 个人信息类
+    userId:
+    role:角色                      
+    function:功能                  持久存储
+    personalInfo:个人信息
+        basicInfo:个人基本信息
+            name:
+            gender:
+            birthday
+            post
+            tel
+            job
+            address
+            eduexp:
+            workexp
+            sciexp
+            teachexp
+        personalFinance:个人财务信息
+            [
+                {
+                    time:
+                    account:
+                    type:
+                    description:
+                    amount:
+                },.....
+            ]
+        bindingAccount:
+            bank:
+                bankName:
+                account:
+                name:
+            alipay:
+                account:
+                name:
+            wechat:
+                account:
+                name:
+        settings:
+
+
+
+

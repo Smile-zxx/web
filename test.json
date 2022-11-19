@@ -1,0 +1,56 @@
+{
+    "API_illState": 
+       {
+           "API_description": "122"
+       },
+   "API_diagResult": [
+       {
+           "API_diagDescription": "122"
+       }
+   ],
+   "API_treatment": [
+       {
+           "API_treatmentdescription": "123"
+       }
+   ],
+   "API_drugs": [
+       {
+           "API_drugsName": "阿莫西林",
+           "API_drugsNumber": "2",
+           "API_drugsNumberUnits": "盒",
+           "API_drugsUsage": "一次两粒",
+           "API_useFrequency": "一天三次",
+           "API_useTime": "饭后"
+       },
+       {
+           "API_drugsName": "川贝枇杷膏",
+           "API_drugsNumber": "1",
+           "API_drugsNumberUnits": "瓶",
+           "API_drugsUsage": "一次5ml",
+           "API_useFrequency": "一天两次",
+           "API_useTime": "饭后"
+       },
+       {
+           "API_drugsName": "快克",
+           "API_drugsNumber": "2",
+           "API_drugsNumberUnits": "盒",
+           "API_drugsUsage": "一次两粒",
+           "API_useFrequency": "一天三次",
+           "API_useTime": "饭后"
+       }
+   ],
+   "API_after": {
+       "API_org": {
+           "API_orgId": "2",
+           "API_orgName": "成都市第一人民医院"
+       },
+       "API_doc": {
+           "API_docId": "101002",
+           "API_docName": "李四"
+       },
+       "API_nur": {
+           "API_nurId": "103001",
+           "API_nurName": "王二"
+       }
+   }
+}
